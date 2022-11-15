@@ -1,1 +1,1 @@
-console.log(👋 Assalamualaikum)
+Hai ? 👋 : "Y" 
