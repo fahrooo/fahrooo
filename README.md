@@ -1,4 +1,4 @@
-# Hi there, I'm [Fahro Nur Fauzi] 👋
+# Hi there, I'm Fahro Nur Fauzi 👋
 
 ## 🚀 About Me
 I'm a **technology enthusiast** who loves coding, learning new things, and building innovative solutions. I enjoy working with modern web technologies and continuously improving my skills to create impactful projects.
