@@ -40,10 +40,9 @@ I'm a **technology enthusiast**, a passionate **software developer**, and a life
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahrooo&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrooo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrooo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahrooo&theme=radical)
-
 
 ## 🌱 Currently Learning
 - Advanced **Golang** Development
