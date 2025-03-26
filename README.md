@@ -3,8 +3,6 @@
 ## 🚀 About Me
 I'm a **technology enthusiast**, a passionate **software developer**, and a lifelong learner who thrives on solving complex problems with innovative solutions. I specialize in **web development**, **backend engineering**, and love working with modern technologies to build scalable and efficient applications. 
 
-Beyond coding, I'm also interested in **entrepreneurship** and continuously exploring new opportunities. 🚀
-
 ## 💻 Tech Stack
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
