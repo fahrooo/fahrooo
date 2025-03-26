@@ -39,13 +39,12 @@ I'm a **technology enthusiast**, a passionate **software developer**, and a life
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fahrooo&theme=radical)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahrooo&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahrooo&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahrooo&theme=radical" alt="GitHub Streak" />  
+<img src="https://github-readme-stats.vercel.app/api?username=fahrooo&show_icons=true&theme=radical" alt="GitHub Stats" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahrooo&layout=compact&theme=radical" alt="Top Languages" />  
 </div>
-
 
 ## 🌱 Currently Learning
 - Advanced **Golang** Development
